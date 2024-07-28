@@ -1,0 +1,7 @@
+data
+.ipynb_checkpoints/
+model.pth
+__pycache__
+/server.log
+/upload/
+.idea/
